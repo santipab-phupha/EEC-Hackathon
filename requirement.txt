@@ -1,0 +1,10 @@
+streamlit
+pandas
+folium
+streamlit-folium
+geopandas
+lightgbm
+shapely
+google-generativeai
+ultralytics
+opencv-python-headless
